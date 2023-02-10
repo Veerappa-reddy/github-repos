@@ -1,0 +1,15 @@
+.li-item {
+  margin: 10px;
+}
+.lang-btn {
+  background-color: transparent;
+  border: none;
+}
+.select-lang-css {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  border-radius: 40px;
+  padding: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}

@@ -1,0 +1,25 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.heading {
+  font-size: 35px;
+  font-family: 'Lobster';
+  font-weight: 600;
+}
+.un-order-list {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+.un-order-list-1 {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  flex-wrap: wrap;
+  width: 60%;
+}
